@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\GitHub\\Adventure_2.0\\Adventure_2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B36DDED-B312-4424-89F9-21E43E30B7E5}|Adventure_2.0.vcxproj|C:\\Users\\Owner\\GitHub\\Adventure_2.0\\Adventure_2.0\\Adventure_2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B36DDED-B312-4424-89F9-21E43E30B7E5}|Adventure_2.0.vcxproj|solutionrelative:Adventure_2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\GitHub\\recapweek8\\Coding_1_Week_10\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\GitHub\\Adventure 1.0\\Adventure 1.0\\Adventure 1.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adventure 1.0.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub\\Adventure 1.0\\Adventure 1.0\\Adventure 1.0.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Adventure 1.0\\Adventure 1.0\\Adventure 1.0.cpp",
+              "ToolTip": "C:\\Users\\Owner\\GitHub\\Adventure 1.0\\Adventure 1.0\\Adventure 1.0.cpp",
+              "RelativeToolTip": "..\\..\\Adventure 1.0\\Adventure 1.0\\Adventure 1.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T19:55:46.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub\\recapweek8\\Coding_1_Week_10\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "..\\..\\recapweek8\\Coding_1_Week_10\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\Owner\\GitHub\\recapweek8\\Coding_1_Week_10\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "..\\..\\recapweek8\\Coding_1_Week_10\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T19:52:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adventure_2.0.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\GitHub\\Adventure_2.0\\Adventure_2.0\\Adventure_2.0.cpp",
+              "RelativeDocumentMoniker": "Adventure_2.0.cpp",
+              "ToolTip": "C:\\Users\\Owner\\GitHub\\Adventure_2.0\\Adventure_2.0\\Adventure_2.0.cpp*",
+              "RelativeToolTip": "Adventure_2.0.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T19:47:01.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
