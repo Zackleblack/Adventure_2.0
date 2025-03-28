@@ -128,32 +128,32 @@ void Adventure() {
 
 	// Random Event
 
-	if (AskYesNo("\nYou find something glittering on the ground, do you want to check it out?")) {		// Does player want to start a random event
+	if (AskYesNo("\nYou find something glittering on the ground, do you want to check it out?")) {		// Does player want to start a random event 
 		int eventRoll = RollDie(10);
 
 		if (eventRoll <= 5) {
 
 			totalGold += gold;
-			cout << "\nYou found " << gold << " gold! You now have a total of " << totalGold << " gold!\n\n";
+			cout << "\nYou found " << gold << " gold! You now have a total of " << totalGold << " gold!\n\n";	// Regular Gold Event
 
 		}
 		else if (eventRoll <= 7) {
 			int healAmount = RollDie(10) + 5;
 			if (health == max_health) {
-				cout << "\n You found a health potion!\n";
+				cout << "\n You found a health potion!\n";		// Potion on event drop, lets player know if they are at full health
 				cout << "\nBut... You are already at full health.\n";
 			} else {
 				health = min(health + healAmount, max_health);
-				cout << "\nYou found a health potion and healed " << healAmount << " health! Current health : " << health << " / " << max_health << "\n";
+				cout << "\nYou found a health potion and healed " << healAmount << " health! Current health : " << health << " / " << max_health << "\n";	// Added an option to heal for free through RNG
 			}
 		}
 		else if (eventRoll <= 9) {
 			int trapDamage = RollDie(5) + 2;
 			health -= trapDamage;
-			cout << "\nOn no! It was a trap! You took " << trapDamage << " damage! Current health : " << health << " / " << max_health << "\n";
+			cout << "\nOn no! It was a trap! You took " << trapDamage << " damage! Current health : " << health << " / " << max_health << "\n";		// Added an option to lose health through event
 		}
 		else {
-			cout << "\nYou found an ancient relic! It increases your winnings from battle by x2!\n";
+			cout << "\nYou found an ancient relic! It increases your winnings from battle by x2!\n";	// Added an option to increase gold output
 			goldMultiplier = 2;
 		}
 
